@@ -98,9 +98,6 @@ for i in range(0,9):
 ![output image](thresh.png)
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### Adaptive Thresholding:
 ![output image](threshol.png)
